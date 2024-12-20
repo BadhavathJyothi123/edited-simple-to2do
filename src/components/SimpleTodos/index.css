@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 110vh;
+}
+.container {
+  background-color: #ffc2a0;
+  border: 4px solid #ff8542;
+  height: 900px;
+  width: 1000px;
+  margin: 120px;
+}
+.simple-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 750px;
+  width: 900px;
+  border-width: 0px;
+  border-radius: 15px;
+  margin: 60px;
+}
+.container-list {
+  list-style-type: none;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: bold;
+}

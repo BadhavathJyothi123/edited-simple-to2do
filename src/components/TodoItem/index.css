@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 50px;
+}
+.title {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.delete-btn {
+  height: 40px;
+  width: 120px;
+  background-color: white;
+  border-radius: 10px;
+  color: #ff0b37;
+  border: 2px solid #ff0b37;
+}
